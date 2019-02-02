@@ -1,2 +1,2 @@
 # chess-erlang
-Simple chess created in Erlang
+Chess created in Erlang
